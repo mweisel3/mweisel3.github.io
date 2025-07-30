@@ -1,22 +1,7 @@
 [
   {
-    "title": "Project Title One",
-    "description": "A brief, one-sentence description of this amazing project.",
-    "url": "#"
-  },
-  {
-    "title": "Project Title Two",
-    "description": "This one solves a real-world problem with elegant code.",
-    "url": "#"
-  },
-  {
-    "title": "Project Title Three",
-    "description": "Showcasing my skills in a particular technology or framework.",
-    "url": "#"
-  },
-  {
-    "title": "Another Great Project",
-    "description": "You can easily add more projects by adding new objects to this array.",
-    "url": "#"
+    "title": "Physiology Notes",
+    "description": "Cornell Style notes for the Physiology course at JMC.",
+    "url": "https://mweisel3.github.io/physiology_notes"
   }
 ]
