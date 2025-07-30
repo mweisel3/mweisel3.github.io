@@ -1,0 +1,15 @@
+{
+  "name": "Mordecai Weisel",
+  "title": "Computational Researcher | Modeling Cellular Self-Organization in Health and Disease",
+  "photoUrl": "Assets/profile_pic.jpg",
+  "paragraphs": [
+    "I'm a computational researcher in <a href='https://www.adler-lab.com' class='text-indigo-600 hover:underline'>the Adler Lab</a> investigating one of biology's most fundamental questions: how do individual cells cooperate to build organized, functional tissues? My work uses machine learning and statistical modeling to uncover the rules that govern this cellular self-organization, with a focus on understanding why these processes sometimes fail.",
+    "Before returning to academia, I spent several years in the tech industry in roles spanning data science, software engineering, and product management. That experience taught me how to build robust computational tools and ask targeted, impactful questions—a skill set I now apply to the complex challenge of decoding biological systems.",
+    "I have a varied educational background, mostly recently completing a <a href='omscs.gatech.edu' class='text-indigo-600 hover:underline'>MSCS@GT</a> and courses in biology."
+  ],
+  "socials": {
+    "github": "github.com/mweisel3",
+    "linkedin": "https://www.linkedin.com/in/mordecai-weisel/",
+    "cv": "Assets/Mordecai Weisel Resume.pdf"
+  }
+}
